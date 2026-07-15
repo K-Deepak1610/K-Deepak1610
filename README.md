@@ -1,6 +1,19 @@
-# 💫 About Me:
-## I Am K Deepak <br><br>🎓 I'm a 4th Year Computer Science Engineering student at Acharya Institute of Technology, Bengaluru.<br><br>🔭 I'm currently working on Java projects, Data Structures & Algorithms, and Full Stack Development.<br><br>🌱 I'm currently learning Java, Data Structures & Algorithms, Object-Oriented Programming (OOP), and Database Management Systems (DBMS).<br><br>👯 I'm looking to collaborate on Open Source and Java-based projects.<br><br>🤝 I'm looking for help with System Design and Backend Development.<br><br>💬 Ask me about Java, DSA, Git, GitHub, OOP, and DBMS.<br><br>🎯 Goal: To become a Software Engineer and build scalable, real-world applications.<br><br>⚡ Fun fact: I enjoy solving coding problems and building practical software projects.
+# 👋 Hi, I'm K Deepak
 
+🎓 4th Year Computer Science Engineering Student at Acharya Institute of Technology
+
+💡 Passionate about writing clean code, solving problems, and building software that creates real value.
+
+### 🚀 Currently
+- 🌱 Learning Java, DSA, OOP & DBMS
+- 💻 Building Full Stack Projects
+- 📚 Improving Problem Solving Skills
+- 🤝 Exploring Open Source
+
+### 🎯 Career Objective
+Aspiring Software Engineer focused on building scalable, efficient, and user-centric applications while continuously learning modern technologies.
+
+> *"Code. Learn. Build. Repeat."*
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/k.deepak_1610) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/deepak-k-5112b937a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepakkarthik20@gmail.com) 
